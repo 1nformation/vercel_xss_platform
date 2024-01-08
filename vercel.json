@@ -1,7 +1,7 @@
 {
   "functions": {
     "api/*.php": {
-      "runtime": "nodejs12.1"
+      "runtime": "nodejs12.22.12"
     }
   },
   "routes": [
